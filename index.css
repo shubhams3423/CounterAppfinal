@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    font-family:sans-serif;
+}
+.header{
+    text-align: center;
+    font-size: 42px;
+   
+    color: white;
+}
+.zero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 8vw;
+    color: white;
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12rem;
+    color: white;
+    gap: 2rem;
+}
+
